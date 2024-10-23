@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "cover": "https://example.com/cover1.jpg",
+        "title": "The Whispering Shadows",
+        "author": "Lena Hart",
+        "author-img": "https://example.com/author1.jpg",
+        "posted": "2023-10-01",
+        "date": "2023-10-01T10:00:00Z",
+        "reading-time": 15,
+        "hashtags": ["#mystery", "#thriller", "#fiction"]
+    },
+    {
+        "id": 2,
+        "cover": "https://example.com/cover2.jpg",
+        "title": "Journey Through Time",
+        "author": "Mark Rivers",
+        "author-img": "https://example.com/author2.jpg",
+        "posted": "2023-09-15",
+        "date": "2023-09-15T14:30:00Z",
+        "reading-time": 20,
+        "hashtags": ["#sciencefiction", "#adventure", "#time"]
+    },
+    {
+        "id": 3,
+        "cover": "https://example.com/cover3.jpg",
+        "title": "The Heart of the Forest",
+        "author": "Sofia Kline",
+        "author-img": "https://example.com/author3.jpg",
+        "posted": "2023-08-22",
+        "date": "2023-08-22T09:15:00Z",
+        "reading-time": 10,
+        "hashtags": ["#nature", "#fantasy", "#adventure"]
+    },
+    {
+        "id": 4,
+        "cover": "https://example.com/cover4.jpg",
+        "title": "Digital Dreams",
+        "author": "Ravi Patel",
+        "author-img": "https://example.com/author4.jpg",
+        "posted": "2023-07-30",
+        "date": "2023-07-30T12:00:00Z",
+        "reading-time": 25,
+        "hashtags": ["#technology", "#fiction", "#future"]
+    },
+    {
+        "id": 5,
+        "cover": "https://example.com/cover5.jpg",
+        "title": "Echoes of the Past",
+        "author": "Emily Tran",
+        "author-img": "https://example.com/author5.jpg",
+        "posted": "2023-06-10",
+        "date": "2023-06-10T08:45:00Z",
+        "reading-time": 30,
+        "hashtags": ["#historical", "#drama", "#romance"]
+    }
+]
